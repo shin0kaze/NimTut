@@ -1,4 +1,4 @@
-# This is repo for learning Nim
+# This is [repo](https://github.com/shin0kaze/NimTut) for learning Nim
 
 ## Setup for codespaces
 
